@@ -132,14 +132,13 @@
         "ms-python.isort",
 
         // Black for Python code formatting as an optional extension
-        // "ms-python.black-formatter"
+        // "ms-python.black-formatter",
 
         // VSCode Containers Extension as an optional extension
-        // "ms-azuretools.vscode-containers"
+        // "ms-azuretools.vscode-containers",
 
-
-        // Lean4 Theorem Prover as an optional extension
-        // "leanprover.lean4"
+          // Lean4 Theorem Prover as an optional extension
+        // "leanprover.lean4",
       ]
     }
   },
