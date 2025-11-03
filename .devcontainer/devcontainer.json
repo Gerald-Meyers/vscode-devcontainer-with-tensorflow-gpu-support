@@ -131,7 +131,10 @@
         // isort for Python import sorting
         "ms-python.isort"
 
-        // Lean4 Theorem Prover as an optional import
+        // Black for Python code formatting as an optional extension
+        // "ms-python.black-formatter"
+
+        // Lean4 Theorem Prover as an optional extension
         // "leanprover.lean4"
       ]
     }
