@@ -1,4 +1,7 @@
 {
+    "editor.fontFamily": "monospace",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
     "editor.largeFileOptimizations": false,
     "editor.rulers": [ 72, 79, 120],
     "editor.renderWhitespace": "none",
@@ -13,6 +16,7 @@
         }
     },
     "git.confirmSync": false,
+    "git.enableSmartCommit": true,
 
     "[python]": {
         "editor.defaultFormatter": "ms-python.autopep8",
