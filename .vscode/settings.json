@@ -31,7 +31,10 @@
         "editor.codeActionsOnSave": {
             "source.organizeImports": "explicit"
         }
-    },
+    }, 
+    "python.analysis.extraPaths": [// Add extra comma separated paths here.
+        // e.g. "/src/" or "/src/Python"
+    ],
     "python.analysis.typeCheckingMode": "strict",
     "python.analysis.diagnosticSeverityOverrides": {
         "reportImportCycles":                   "error",
