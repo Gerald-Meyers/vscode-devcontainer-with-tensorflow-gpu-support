@@ -7,3 +7,5 @@ autokeras
 ipykernel
 scikit-learn
 regex
+# Git pre-commit hook - https://pre-commit.com/
+pre-commit
